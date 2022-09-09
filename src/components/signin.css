@@ -1,0 +1,104 @@
+.signin-container
+{  
+    padding: 1rem;
+    position: relative;
+    height: 600px;
+    width: 470px;
+    display: block;
+    text-align: center;
+    
+    margin-bottom: 2rem;
+}
+
+.signin-header
+{
+    text-align: center;
+    font-size:small;
+}
+.signin-input
+{
+    margin: 20px;
+    margin-bottom: 40px;
+    margin-top: 70px;
+
+}
+.username{
+    width: 350px;
+    text-align: center;
+    height: 50px;
+    display: block;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 2px solid rgb(170, 166, 166);
+    background-color: rgb(255, 255, 255);
+    font-size: small;
+}
+.pwd{
+    width: 350px;
+    text-align: center;
+    height: 50px;
+    display: block;
+    border: none;
+    border: none;
+    border-bottom: 2px solid rgb(170, 166, 166);
+    background-color: rgb(255, 255, 255);
+    font-size: small;
+}
+.username:focus
+{
+    outline: none;
+    border-bottom: 2px solid rgb(8, 109, 177);
+}
+.pwd:focus
+{
+    outline: none;
+    border-bottom: 2px solid rgb(8, 109, 177);
+}
+.verification{
+    display: block;
+}
+.verification{
+    margin: 20px;
+    text-align: start;
+    font-size: smaller;
+    color: rgb(125, 126, 128);
+}
+
+
+.check-text{
+    font-size: small;
+    font-weight: 500;
+    
+}
+.check-text:hover{
+    color: black;
+}
+
+.tandc:hover
+{
+    color: black;
+}
+
+.signinbutton{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: relative;
+    padding-left: 0%;
+    background-color: rgb(23, 91, 192);
+    color: white;
+    width: 95%;
+    height: 40px;
+    border: none;
+    border-radius: 6px;
+}
+.signinbutton:hover{
+    color: white;
+    background-color: black;
+}
+.register a{
+    color: rgb(17, 89, 182);
+    
+}
+.register a:hover{
+    color: rgb(224, 4, 4);
+}

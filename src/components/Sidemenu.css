@@ -1,0 +1,58 @@
+.menu-btn
+{
+    border: none;
+    background-color: rgb(248, 247, 247);
+    color: black;
+}
+
+.menu-btn:focus
+{
+    outline: none;
+    border: none;
+    background-color: rgb(248, 247, 247);
+    color: black;
+}
+
+.menu-btn:hover
+{
+    border: none;
+    background-color: rgb(248, 247, 247);
+    color: black;
+}
+
+.categories-menu
+{
+    margin: 0%;
+    margin: auto;
+    list-style-type: none;
+    
+}
+.categories-list
+{
+    color: rgb(70, 66, 66);
+    padding: 1rem;
+}
+.categories-list:hover{
+    color:rgb(23, 91, 192);
+}
+.more-list
+{
+    list-style-type: none;
+    padding: 2rem;
+}
+.list-more-menu
+{
+    float:left;
+    width: 28rem;
+    text-align: start;
+    padding: 0 9rem;
+    cursor: pointer;
+    
+}
+
+.more
+{
+    cursor: pointer;
+}
+
+

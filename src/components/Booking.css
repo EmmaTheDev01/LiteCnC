@@ -1,0 +1,10 @@
+.container-booking
+{
+    padding: 1rem;
+}
+.head-prod{
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(75, 76, 77);
+    padding: 1rem;
+  }

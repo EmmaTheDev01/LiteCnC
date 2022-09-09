@@ -1,0 +1,31 @@
+.mycart
+{
+    padding: 7rem;
+  
+}
+section
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.title-cart
+{
+   color: rgb(13, 13, 14);
+   font-size: x-large;
+   font-weight: 700;
+}
+.fa-trash
+{
+    cursor: pointer;
+}
+.cart-indicator
+{
+    font-size: x-large;
+    list-style-type: none;
+    
+
+}
+.badge-style
+{
+   font-size: small;
+    
+}

@@ -1,0 +1,77 @@
+.form
+{
+  
+}
+.look{
+    padding: 1rem;
+    width: 20rem;
+    text-align: center;
+    height: 50px;
+    display: block;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 2px solid rgb(170, 166, 166);
+    background-color: rgb(255, 255, 255);
+    font-size: small;
+    margin-left: auto;
+    margin-right: auto;
+}
+.look:focus
+{
+    outline: none;
+    border-bottom: 2px solid rgb(8, 109, 177);
+}
+.checkbox-content{
+    display: block;
+}
+.checkbox-content{
+    margin: 20px;
+    text-align: start;
+    font-size: smaller;
+    color: rgb(125, 126, 128);
+}
+
+
+.check-label{
+    font-size: small;
+    font-weight: 500;
+    
+}
+.check-text:hover{
+    color: black;
+}
+
+.tandc:hover
+{
+    color: black;
+}
+
+.signup-btn{
+    padding: 1rem;
+    background-color: rgb(23, 91, 192);
+    color: white;
+    width: 29rem;
+    height: auto;
+    border: none;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2rem;
+}
+.signup-btn:hover{
+    color: white;
+    background-color: black;
+}
+.register a{
+    color: rgb(17, 89, 182);
+    
+}
+.register:hover{
+    color: rgb(224, 4, 4);
+}
+.signup-header
+{   
+    padding: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}

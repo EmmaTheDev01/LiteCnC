@@ -1,0 +1,42 @@
+
+.user-btn
+{
+    width: 3.5rem;
+    height: auto;
+    padding: 1rem;
+    border-radius: 50%;
+    margin-top: -1rem;
+    background-color: black;
+    border: 1px solid black;
+}
+.user-btn:hover{
+    background-color: black;
+}
+.user-btn:focus{
+    background-color: black;
+    outline: none;
+}
+.user-menu
+{
+    list-style-type: none;
+    padding: 0%;
+    margin: 0%;
+    padding: 0.3rem;
+}
+.user-list
+{
+    font-size: medium;
+    font-weight: 500;
+    padding: 0.5rem;
+}
+.usr
+{
+    color: black;
+}
+@media screen and (max-width: 992px) {
+.user-btn
+{
+   display: none;
+}
+    
+}

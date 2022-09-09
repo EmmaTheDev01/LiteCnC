@@ -1,0 +1,40 @@
+a{
+    text-decoration: none;
+    color: #000;
+}
+.copyright
+{
+    float: left;
+}
+.footer-list
+{
+    list-style-type: none;
+    display: block;
+}
+.list-footer
+{
+    float: right;
+    padding: 0px 14px;
+    text-align: start;
+    color: grey;
+
+}
+.list-footer:hover
+{
+    color: rgb(14, 86, 194);
+}
+@media screen and (max-width: 992px) {
+    .list-footer
+{
+    display: none;
+}
+}
+.footer{
+    bottom: 0;
+    position: sticky;
+    background-color: rgb(255, 255, 255);
+}
+.color:hover
+{
+    color: grey;
+}
